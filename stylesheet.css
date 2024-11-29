@@ -394,7 +394,7 @@ body {
     flex-flow: row;
     width: 100vw;
     height: 59vh;
-    background-image: url(images/webbanner.png);
+    background-image: url(images2/webbanner.png);
     background-position: top;
     background-attachment: fixed;
 }
@@ -857,7 +857,7 @@ svg path {
 }*/
 
 .proppage {
-    background-image: url(images/propagandaback.png);
+    background-image: url(images2/propagandaback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -865,7 +865,7 @@ svg path {
 }
 
 .porschepage {
-    background-image: url(images/porscheback.png);
+    background-image: url(images1/porscheback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -873,7 +873,7 @@ svg path {
 }
 
 .eagpage{
-    background-image: url(images/spreadmainpageback.png);
+    background-image: url(images2/spreadmainpageback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -881,7 +881,7 @@ svg path {
 }
 
 .eldenpage{
-    background-image: url(images/eldenringback.png);
+    background-image: url(images1/eldenringback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -890,7 +890,7 @@ svg path {
 }
 
 .barkpage {
-    background-image: url(images/saquonback.png);
+    background-image: url(images2/saquonback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -898,7 +898,7 @@ svg path {
 }
 
 .harperpage {
-    background-image: url(images/harperback.png);
+    background-image: url(images1/harperback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -906,7 +906,7 @@ svg path {
 }
 
 .gunnapage {
-    background-image: url(images/gunnaback.png);
+    background-image: url(images1/gunnaback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -914,7 +914,7 @@ svg path {
 }
 
 .uzipage {
-    background-image: url(images/uziback.png);
+    background-image: url(images2/uziback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
@@ -922,7 +922,7 @@ svg path {
 }
 
 .embiidpage {
-    background-image: url(images/embiidback.png);
+    background-image: url(images1/embiidback.png);
     background-position: top;
     background-attachment: fixed;
     height: 100vh;
